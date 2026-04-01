@@ -38,6 +38,14 @@
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" style="max-width: 100%;">
 </a>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" style="max-width: 100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" style="max-width: 100%;">
+</a>
+
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" style="max-width: 100%;">
 </a>
