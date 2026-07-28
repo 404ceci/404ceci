@@ -14,7 +14,7 @@
 
 <div align="center">  
   
-<br>🌸 **`I'm a tech girl designer & developer in progress `** 
+<br>🌸 **`I'm a tech girl web developer & ux/ui designer `** 
 
 <br>⋆｡˚୨୧˚｡⋆. I’m passionate about **technology,** currently studying **Systems Analysis and Development.**
 
