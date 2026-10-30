@@ -18,7 +18,7 @@
 
 ₊˚⊹♡.    I have a **special** _interest_ in **visual interfaces**, including **UX/UI**, **Web Design**, and **User Experience.** I truly enjoy creating interfaces that feel light, intuitive, and _visually beautiful_, where _design_ and _usability_ work together to provide a pleasant and meaningful experience for users.
 
-⋆౨ৎ˚⟡. I’m also curious about and interested in **cybersecurity.**
+⋆౨ৎ˚⟡. I’m also curious about and interested in **Mobile Applications.**
 
 ⋆˚✿. This **[GitHub](https://github.com/404ceci)** is the place where I share my **projects**, **studies** and **learning.**
 
